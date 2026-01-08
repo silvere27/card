@@ -56,7 +56,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "node.extend": "~2.0.2",
+    "node.extend": "~2.0.3",
     "payment": "^2.4.6",
     "qj": "^2.0.0"
   }
